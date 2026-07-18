@@ -2,7 +2,7 @@
 
 > Personal portfolio website hosted on AWS S3 — built as part of the Cloud Engineer Roadmap 2026.
 
-**Live site:** [your-bucket-name.s3-website.ap-south-1.amazonaws.com](http://yash-s3-demo-project-bucket.s3-website.us-east-1.amazonaws.com)
+**Live site:** [yash-s3-demo-project-bucket.s3-website.ap-south-1.amazonaws.com](http://yash-s3-demo-project-bucket.s3-website.us-east-1.amazonaws.com)
 
 ---
 
